@@ -1,0 +1,36 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+//التمرين الاول 
+String name = "Mohammed"	;	
+int age = 17 ;
+System.out.println("Hi, My name is " + name + "And i am " + age +" years old ");
+
+
+// تمرين قطار الموت 
+int hight = 160 ;
+    if (hight >= 160){
+       System.out.println(" you can enter ") ;
+       
+    }else if (hight < 160){
+        
+        System.out.println("you can not enter ") ;
+        
+        
+        
+        
+        
+    }
+
+
+
+
+
+
+
+
+
+
+	}
+}
